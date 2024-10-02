@@ -1,0 +1,100 @@
+PatientID,Name,Address,Phone Number,Age,Health Problem
+501826,Haley Edwards,Assam,8765432109,35,Arthritis
+724639,Jasmine Rodriguez,Odisha,7654321098,29,Diabetes
+315892,Dr. Morgan Bowen,Jharkhand,6543210987,55,Diabetes
+968471,Larry Nunez,Haryana,5432109876,44,Hypertension
+572318,Jamie Richardson,Uttar Pradesh,4321098765,30,Arthritis
+604931,Brian Johnson,Kerala,8901234567,35,Arthritis
+287514,Lori Carlson,Nagaland,7890123456,78,Hypertension
+135798,Brian Johnson,Bihar,6789012345,64,Hypertension
+462185,Shannon Smith,Tamil Nadu,5678901234,80,Arthritis
+890347,Michelle Perez,Maharashtra,4567890123,79,None
+679254,Lance Reid,Rajasthan,3456789012,28,Hypertension
+218736,Amber Boyd,Punjab,2345678901,41,None
+503172,Robert Garcia,Arunachal Pradesh,1234567890,65,Arthritis
+947361,Paula Davis,Madhya Pradesh,9876123450,64,Arthritis
+182673,Cindy Lynn,Mizoram,8765123450,56,Hypertension
+569431,Thomas Thompson,Sikkim,7654123450,30,Hypertension
+726894,Gregory Clark,Meghalaya,6543123450,43,None
+384215,Tyler Murphy,Tripura,5432123450,74,Diabetes
+951782,Terry Miller,Karnataka,4321123450,33,Arthritis
+634219,Nicholas Anderson,Uttarakhand,8901012345,53,Diabetes
+875143,Scott Lynch,Andhra Pradesh,7891012345,23,Arthritis
+392617,Sandy Brown MD,Chhattisgarh,6781012345,37,None
+518934,Robert Larsen,Telangana,5671012345,56,None
+769542,Anthony Young,West Bengal,4561012345,74,None
+143287,Jennifer Simmons,Manipur,3451012345,30,Arthritis
+926418,Jenny Long,Goa,2341012345,69,None
+657931,Elizabeth Davis,Himachal Pradesh,1231012345,64,Arthritis
+481365,Donna Jones,Jammu and Kashmir,9876012345,64,None
+395172,Travis Houston,Assam,8765012345,69,Hypertension
+184257,Robert Marsh,Delhi,7655012345,19,Diabetes
+239648,Dennis Walsh,Dadra and Nagar Haveli and Daman and Diu,6545012345,53,Hypertension
+871926,Heather Wood,Puducherry,5435012345,65,Hypertension
+562143,Jessica Park,Lakshadweep,4325012345,24,Arthritis
+314789,Barbara Pruitt,Chandigarh,8902012345,23,Arthritis
+496237,Sean Grant,Andaman and Nicobar Islands,7892012345,67,None
+728913,William Peters,Ladakh,6782012345,62,None
+947182,Brittney Turner,Mizoram,5672012345,41,None
+135849,Vaibhav,Solanb,345786078454,789,None
+682513,Catherine Wise,Jharkhand,3452012345,22,Diabetes
+579461,Joseph Malone,Nagaland,2342012345,44,None
+345981,Emily Meadows,Kerala,1232012345,77,None
+196837,John Joyce,Tamil Nadu,9876112345,41,Diabetes
+824763,Nicholas Williams,Sikkim,8765112345,58,None
+513297,David Smith,Meghalaya,7654112345,76,None
+876452,Christine Fisher,Rajasthan,6543112345,50,Hypertension
+214739,Dustin Cook,Punjab,5432112345,59,Hypertension
+649781,Sarah Sampson,Bihar,4321112345,44,Hypertension
+357924,Matthew Mathis,Odisha,8901112345,47,Hypertension
+912384,Scott Stevens,Madhya Pradesh,7891112345,69,Diabetes
+735419,Kevin Branch,Manipur,6781112345,53,Hypertension
+489267,Joyce Chapman,Telangana,5671112345,53,Hypertension
+621384,Patrick Rodriguez,Uttar Pradesh,4561112345,42,Arthritis
+297841,Darren Miller,Karnataka,3451112345,74,None
+834619,Jonathan Kelley,Gujarat,2341112345,51,Diabetes
+156297,Katherine Patterson,Maharashtra,1231112345,18,None
+478315,Shari Ray,Haryana,9876222345,60,Hypertension
+963174,Bailey Gross,Uttarakhand,8765222345,48,Hypertension
+725413,Catherine Williamson,Tripura,7654222345,46,None
+381964,Vanessa Eaton,West Bengal,6543222345,32,Diabetes
+549183,Aaron Wilson,Andhra Pradesh,5432222345,50,Diabetes
+672154,Kerri Allen,Chhattisgarh,4321222345,67,None
+819637,Peter Burnett,Himachal Pradesh,8901222345,67,None
+243861,Linda Watkins,Jammu and Kashmir,7891222345,39,Diabetes
+513972,Colin Pena,Goa,6781222345,21,Hypertension
+698341,Donald Williams,Delhi,5671222345,67,Diabetes
+157394,Crystal Collins,Puducherry,4561222345,31,Arthritis
+846192,John Bishop,Dadra and Nagar Haveli and Daman and Diu,3451222345,66,Arthritis
+231974,Ashley Khan,Chandigarh,2341222345,28,Diabetes
+487361,Kyle Weber,Lakshadweep,1231222345,18,None
+629134,Lauren Simon,Andaman and Nicobar Islands,9876333345,53,Hypertension
+715932,Mary Stewart,Ladakh,8765333345,21,None
+384651,Brooke Contreras,Assam,7654333345,67,None
+916273,Christopher Baker,Mizoram,6543333345,66,None
+572843,Sherri Clark,Odisha,5432333345,62,None
+493216,Mary Cervantes DDS,Nagaland,4321333345,73,Diabetes
+681427,Angela Williams,Jharkhand,8901333345,60,None
+357918,Michelle Ramsey,Tamil Nadu,7891333345,41,Diabetes
+249863,Natasha Campbell,Bihar,6781333345,46,None
+836415,Matthew Thompson,Sikkim,5671333345,52,Hypertension
+192738,Amanda Castillo,Meghalaya,4561333345,31,Diabetes
+574319,Wanda Casey,Tripura,3451333345,76,Hypertension
+681295,Michael Carter,Maharashtra,2341333345,18,Arthritis
+934816,Adam Hernandez,Rajasthan,1231333345,57,Arthritis
+517394,Darren Conner,Punjab,9876444455,22,Hypertension
+462573,John Watkins,Karnataka,8765444455,21,Hypertension
+785391,Amanda Mckinney,Uttar Pradesh,7654444455,65,Hypertension
+329147,Mr. Andrew Yoder,Haryana,6543444455,58,None
+614982,Elizabeth Reeves,Gujarat,5432444455,71,Hypertension
+257843,Dylan Padilla,Kerala,4321444455,38,Hypertension
+938216,Kelly Romero,Manipur,8901444455,62,None
+476135,Catherine West,Telangana,7891444455,42,Arthritis
+915738,Ashley Campbell,Delhi,6781444455,41,None
+683147,Zachary Mitchell,Himachal Pradesh,5671444455,21,Diabetes
+521934,Marc Willis,Chandigarh,4561444455,35,None
+367215,Kimberly Roth,Goa,3451444455,38,Diabetes
+194827,Michael Serrano,Jammu and Kashmir,2341444455,28,None
+876591,Miss Sarah Bass,Uttarakhand,1231444455,28,Arthritis
+432678,Alexander Maynard,Dadra and Nagar Haveli and Daman and Diu,9876543210,18,Arthritis
+589312,Jacob Mcdaniel,Puducherry,8765432109,52,Hypertension
